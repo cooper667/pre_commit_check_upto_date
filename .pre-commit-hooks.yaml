@@ -1,0 +1,5 @@
+-   id: check-upto-date-with-main
+    name: Check branch is up to date with main
+    description: Pull main and then ensure our branch isn't missing any of those commits
+    entry: run.sh
+    language: script
