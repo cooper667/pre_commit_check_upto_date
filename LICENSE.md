@@ -4,7 +4,7 @@
 
 > Version 1.2, February 2021
 
-> Copyright (C) [2021] [Craig Cooper]
+> Copyright (C) 2021 Craig Cooper
  
  Everyone is permitted to copy and distribute verbatim or modified copies of this software.
 
